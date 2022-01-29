@@ -333,7 +333,7 @@ public class MOO1GameOptions implements Base, IGameOptions, Serializable {
             case SIZE_TINY:       return 33;
             case SIZE_SMALL:      return 50;
             case SIZE_SMALL2:     return 70;
-            case SIZE_MEDIUM:     return 100;
+            case SIZE_MEDIUM:     return 90;
             case SIZE_MEDIUM2:    return 150;
             case SIZE_LARGE:      return 225;
             case SIZE_LARGE2:     return 333;
